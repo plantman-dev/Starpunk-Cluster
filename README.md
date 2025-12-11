@@ -22,7 +22,7 @@ I am certain there will be bugs in this version (mainly graphics-related, e.g we
 # Discord:
 https://discord.gg/nwnJdqb9VY
 
-#License:
+# License:
 
 
 

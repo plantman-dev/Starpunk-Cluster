@@ -15,6 +15,10 @@ And that's it!
 - Deferred (better lighting and performance).
 - KSPCommunityFixes (for bug fixes).
 
+# System Map:
+<img width="4000" height="2000" alt="image" src="https://github.com/user-attachments/assets/5c91dfdd-c2f2-4bc5-b69f-e0ba0ec17646" />
+
+
 # Notes:
 If you're puzzled why I have posted a github repo instead of a spacedock link, it's because the mod (in my opinion) is not ready for full release yet, so I would like downloads to be available to those who join here, this allows me to debug more efficiently and improve the mod further.
 I am certain there will be bugs in this version (mainly graphics-related, e.g weird cloud tiling and scaled-space issues), and if there are any, please report to the #:beetle:-bugs  section so I can pinpoint the exact issue.

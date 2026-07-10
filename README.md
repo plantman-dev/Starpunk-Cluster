@@ -1,6 +1,13 @@
 # Starpunk Cluster
 Stellar Conquest...
 
+# Contributers & Devs:
+Thanks!:
+- Omni Man : Ferur science defs
+- Outerhearthian : Keljido science defs
+- KerbalHub : For making Aisu and helping me on Keljido
+- Rulie : For making the entire soundtrack for the mod
+
 # Screenshots 
 <img width="2560" height="1440" alt="screenshot313" src="https://github.com/user-attachments/assets/b9a3aa65-259a-4a8c-9603-d2f725bb0ca7" />
 <img width="2560" height="1440" alt="screenshot282" src="https://github.com/user-attachments/assets/4ef878ba-3831-489a-8422-26a7fe19a874" />
@@ -56,13 +63,6 @@ Toggleable settings (Located in SC-Main/StarpunkClusterSettings.cfg):
 - Rescale support (anything over 2.5x scale I _do not_ recommend)
 - Toggleable wormholes
 - Distance Scale
-
-# Contributers & Devs:
-Thanks!:
-- Omni Man : Ferur science defs
-- Outerhearthian : Keljido science defs
-- KerbalHub : For making Aisu and helping me on Keljido
-- Rulie : For making the entire soundtrack for the mod
 
 # System map (some planets arrive later):
 <img width="7900" height="5300" alt="agaea_system" src="https://github.com/user-attachments/assets/dd37bc91-0037-45c4-a69f-42b2a6c3f55c" />

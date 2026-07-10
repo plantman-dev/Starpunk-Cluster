@@ -3,10 +3,11 @@ Stellar Conquest...
 
 # Contributers & Devs:
 Thanks!:
-- Omni Man : Ferur science defs
-- Outerhearthian : Keljido science defs
-- KerbalHub : For making Aisu and helping me on Keljido
-- Rulie : For making the entire soundtrack for the mod
+- Outerhearthian : Keljido science defs (Dev)
+- Rulie : For making the entire soundtrack for the mod (Dev)
+- Omni Man : Ferur science defs (Contributer)
+- KerbalHub : For making Aisu and helping me on Keljido (Contributer)
+
 
 # Screenshots 
 <img width="2560" height="1440" alt="screenshot313" src="https://github.com/user-attachments/assets/b9a3aa65-259a-4a8c-9603-d2f725bb0ca7" />

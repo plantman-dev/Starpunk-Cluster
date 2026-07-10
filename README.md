@@ -9,6 +9,9 @@ Stellar Conquest...
 <img width="2560" height="1440" alt="screenshot174" src="https://github.com/user-attachments/assets/f6f5a2a9-6eeb-4dac-934c-0a0ed29d6d87" />
 <img width="2560" height="1440" alt="screenshot320" src="https://github.com/user-attachments/assets/cf995f25-0e6b-455d-9cf3-4dc9cf7d59dd" />
 <img width="2560" height="1440" alt="screenshot395" src="https://github.com/user-attachments/assets/5e299359-c490-4e2d-9cb2-946a343e4520" />
+<img width="2560" height="1440" alt="screenshot454" src="https://github.com/user-attachments/assets/08f131e2-d371-41fb-aa75-ac07d5d4c950" />
+<img width="2560" height="1440" alt="screenshot271" src="https://github.com/user-attachments/assets/ccf3f277-2ac7-479a-8084-eb3cf7240cc5" />
+
 
 # Dependencies:
 This is really important, so read carefully!

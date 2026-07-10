@@ -1,4 +1,4 @@
-# Starpunk-Cluster
+# Starpunk Cluster
 Stellar Conquest...
 
 # Dependencies:

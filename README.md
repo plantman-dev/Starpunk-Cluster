@@ -27,7 +27,6 @@ This is really important, so read carefully!
 - VertexMitchellNetravali
 - VertexColourMapEmissive
 - Kopernicus
-- Parallax Continued
 - ScaledDecorator
 
 ## If you want to use wormholes, install:

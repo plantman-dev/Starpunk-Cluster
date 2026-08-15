@@ -63,7 +63,7 @@ Toggleable settings (Located in SC-Main/StarpunkClusterSettings.cfg):
 - Rescale support (anything over 2.5x scale I _do not_ recommend)
 - Toggleable wormholes
 - Distance Scale
-- Realistic Star Sizr
+- Realistic Star Size
 
 # System map (some planets arrive later):
 <img width="7900" height="5300" alt="agaea_system" src="https://github.com/user-attachments/assets/dd37bc91-0037-45c4-a69f-42b2a6c3f55c" />
